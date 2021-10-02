@@ -1,0 +1,13 @@
+{
+  "name": "star-rating",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:A13k2/star-rating.git",
+  "author": "heisenderp <alexander.drossel@protonmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "packageManager": "yarn@3.0.2"
+}
